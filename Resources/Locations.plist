@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Parks</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>AlMahfal</string>
+			<key>subtitle</key>
+			<string>General Park with wheelchair accessibility.</string>
+			<key>longitude</key>
+			<real>43.4792</real>
+			<key>latitude</key>
+			<real>25.8548</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Aljawazat </string>
+			<key>subtitle</key>
+			<string>General Park with wheelchair accessibility.</string>
+			<key>longitude</key>
+			<real>43.4822</real>
+			<key>latitude</key>
+			<real>25.8713</real>
+		</dict>
+	</array>
+	<key>Store</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Alsaif Gallery</string>
+			<key>subtitle</key>
+			<string>Store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.51</real>
+			<key>latitude</key>
+			<real>25.8771</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Sultan Furniture</string>
+			<key>subtitle</key>
+			<string>Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+Furniture store with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.5164</real>
+			<key>latitude</key>
+			<real>25.8789</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Farza Opticals</string>
+			<key>subtitle</key>
+			<string>Optics store with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.495</real>
+			<key>latitude</key>
+			<real>25.8687</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Hala albait</string>
+			<key>subtitle</key>
+			<string>Store with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4941</real>
+			<key>latitude</key>
+			<real>25.8673</real>
+		</dict>
+	</array>
+	<key>Police</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Ar Rase Traffic department</string>
+			<key>subtitle</key>
+			<string>Ar Rase Traffic department with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.5269</real>
+			<key>latitude</key>
+			<real>25.877</real>
+		</dict>
+	</array>
+	<key>GYM</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Youth Time</string>
+			<key>subtitle</key>
+			<string>Male gym with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4844</real>
+			<key>latitude</key>
+			<real>25.8717</real>
+		</dict>
+	</array>
+	<key>SpecialNeedCenter</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Special Need Center</string>
+			<key>subtitle</key>
+			<string>Center of Special Needs with wheelchair accessibility and parking.
+</string>
+			<key>longitude</key>
+			<real>43.5183</real>
+			<key>latitude</key>
+			<real>25.8675</real>
+		</dict>
+	</array>
+	<key>Tele</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>STC</string>
+			<key>subtitle</key>
+			<string>Telecommunications company with wheelchair accessibility and parking.
+</string>
+			<key>longitude</key>
+			<real>43.5019</real>
+			<key>latitude</key>
+			<real>25.8717</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Pixel</string>
+			<key>subtitle</key>
+			<string>Telecommunications store with wheelchair accessibility and parking.
+</string>
+			<key>longitude</key>
+			<real>43.4946</real>
+			<key>latitude</key>
+			<real>25.8611</real>
+		</dict>
+	</array>
+	<key>Restaurant</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>MacDonald&apos;s</string>
+			<key>subtitle</key>
+			<string>Fast food place with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4903</real>
+			<key>latitude</key>
+			<real>25.8669</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Ladoucer</string>
+			<key>subtitle</key>
+			<string>Restaurant &amp; Café with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4929</real>
+			<key>latitude</key>
+			<real>25.8629</real>
+		</dict>
+	</array>
+	<key>Banks</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Alrajhi</string>
+			<key>subtitle</key>
+			<string>Bank with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4912</real>
+			<key>latitude</key>
+			<real>25.8672</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Ala&apos;rabi </string>
+			<key>subtitle</key>
+			<string>Bank with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4939</real>
+			<key>latitude</key>
+			<real>25.8679</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Alrajhi</string>
+			<key>subtitle</key>
+			<string>Bank with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4912</real>
+			<key>latitude</key>
+			<real>25.8672</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Inma&apos;a</string>
+			<key>subtitle</key>
+			<string>Bank with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4947</real>
+			<key>latitude</key>
+			<real>25.8681</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Albilad</string>
+			<key>subtitle</key>
+			<string>Bank with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.5124</real>
+			<key>latitude</key>
+			<real>25.8788</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Ala&apos;hly</string>
+			<key>subtitle</key>
+			<string>Bank with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4826</real>
+			<key>latitude</key>
+			<real>25.8657</real>
+		</dict>
+	</array>
+	<key>Pharmacy</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Alrazi Pharmacy</string>
+			<key>subtitle</key>
+			<string>Pharmacy with wheelchair accessibility. 
+</string>
+			<key>longitude</key>
+			<real>43.4962</real>
+			<key>latitude</key>
+			<real>25.8604</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Peral health Pharmacy</string>
+			<key>subtitle</key>
+			<string>Pharmacy with wheelchair accessibility. 
+</string>
+			<key>longitude</key>
+			<real>43.4768</real>
+			<key>latitude</key>
+			<real>25.8634</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Asdaf Pharmacy</string>
+			<key>subtitle</key>
+			<string>Pharmacy with wheelchair accessibility. 
+</string>
+			<key>longitude</key>
+			<real>43.5019</real>
+			<key>latitude</key>
+			<real>25.8512</real>
+		</dict>
+	</array>
+	<key>Hotel</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Ara&apos;ak Hotel</string>
+			<key>subtitle</key>
+			<string>Hotel with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.498</real>
+			<key>latitude</key>
+			<real>25.8573</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Boudl Hotel</string>
+			<key>subtitle</key>
+			<string>5-Stars Hotel with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4985</real>
+			<key>latitude</key>
+			<real>25.8593</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Swiss International Hotel</string>
+			<key>subtitle</key>
+			<string>5-Stars Hotel with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4768</real>
+			<key>latitude</key>
+			<real>25.8635</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Meral Hotel</string>
+			<key>subtitle</key>
+			<string>Hotel with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.5028</real>
+			<key>latitude</key>
+			<real>25.8477</real>
+		</dict>
+	</array>
+	<key>Hospital</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>High Care Clinic</string>
+			<key>subtitle</key>
+			<string>Clinic with wheelchair accessibility and parking.
+</string>
+			<key>longitude</key>
+			<real>43.4999</real>
+			<key>latitude</key>
+			<real>25.8536</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Alhabib </string>
+			<key>subtitle</key>
+			<string>Hospital with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.9465</real>
+			<key>latitude</key>
+			<real>26.3614</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Alrass General Hospital</string>
+			<key>subtitle</key>
+			<string>Ar Rass General Hospital with wheelchair accessibility and parking.
+</string>
+			<key>longitude</key>
+			<real>43.4839</real>
+			<key>latitude</key>
+			<real>25.8819</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Alrafa&apos;a Dental Care</string>
+			<key>subtitle</key>
+			<string>Dental Clinic with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.506</real>
+			<key>latitude</key>
+			<real>25.8588</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Almousa Clinic</string>
+			<key>subtitle</key>
+			<string>Clinic with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4885</real>
+			<key>latitude</key>
+			<real>25.8665</real>
+		</dict>
+	</array>
+	<key>SuperMarket</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>2</string>
+			<key>title</key>
+			<string>Salaty</string>
+			<key>subtitle</key>
+			<string>Supermarket with wheelchair accessibility and parking.</string>
+			<key>longitude</key>
+			<real>43.4978</real>
+			<key>latitude</key>
+			<real>25.8588</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>2</string>
+			<key>title</key>
+			<string>Panda</string>
+			<key>subtitle</key>
+			<string>Supermarket with wheelchair accessibility.</string>
+			<key>longitude</key>
+			<real>43.4892</real>
+			<key>latitude</key>
+			<real>25.8677</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>2</string>
+			<key>title</key>
+			<string>Alhatab</string>
+			<key>subtitle</key>
+			<string>Supermarket &amp; Bakery with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.4912</real>
+			<key>latitude</key>
+			<real>25.864</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>2</string>
+			<key>title</key>
+			<string>Altamimi </string>
+			<key>subtitle</key>
+			<string>Supermarket with wheelchair accessibility.
+</string>
+			<key>longitude</key>
+			<real>43.5252</real>
+			<key>latitude</key>
+			<real>25.877</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>2</string>
+			<key>title</key>
+			<string>Althunyan</string>
+			<key>subtitle</key>
+			<string>Supermarket with wheelchair accessibility.</string>
+			<key>longitude</key>
+			<real>43.4867</real>
+			<key>latitude</key>
+			<real>25.866</real>
+		</dict>
+	</array>
+</dict>
+</plist>
